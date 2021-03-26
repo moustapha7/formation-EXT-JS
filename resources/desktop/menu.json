@@ -1,0 +1,11 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Home", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "Personnel", "iconCls": "x-fa fa-table", "xtype": "personnelview","leaf": true },
+
+    { "text": "Matches", "iconCls": "x-fa fa-home", "xtype": "matchesview", "leaf": true },
+    { "text": "Analysis", "iconCls": "x-fa fa-table", "xtype": "matchesview","leaf": true },
+    { "text": "Visualization", "iconCls": "x-fa fa-table", "xtype": "matchesview","leaf": true }
+  ]
+}

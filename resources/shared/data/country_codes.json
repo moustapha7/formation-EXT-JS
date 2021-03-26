@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Afghanistan",
+        "code2":"AF",
+        "code3":"AFG"
+    },
+    
+    {
+        "name":"Albania",
+        "code2":"AL",
+        "code3":"ALB"
+    },
+    
+    {
+        "name":"Algeria",
+        "code2":"DZ",
+        "code3":"DZA"
+    }
+
+]
